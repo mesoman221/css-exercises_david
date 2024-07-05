@@ -1,0 +1,19 @@
+.coolman {
+    background-color: pink;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+#blueman {
+    color: blue;
+    font-size: 36px;
+}
+
+.coolman.cooler {
+    font-size: 24px;
+}
+
+#greenman {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700px;
+}
